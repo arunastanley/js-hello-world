@@ -9,7 +9,7 @@ console.log('Single Quote');
 console.log('Single Quote no colon')
 console.log(1);
 console.log(3+4);
-console.log("Hello","Multiple Hello");
+console.log("Hello","Multiple Hello1");
 console.log('"print quote "');
 console.log("Hello\n","Hello");
 
